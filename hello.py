@@ -1,3 +1,3 @@
 print("Hello, world!!")
 
-print("Ye line maine github se daali")
+print("Ye line maine vscode se daali")
